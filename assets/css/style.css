@@ -1,0 +1,12 @@
+/* Own Custom CSS will be here */
+.ts_Particles_example {
+  height: 400px;
+  background-color: firebrick;
+  z-index: 1;
+}
+
+.custom_form {
+  padding: 30px;
+  background-color: transparent;
+  z-index: 2;
+}
